@@ -14,14 +14,14 @@
 
 <hr></hr>
 
-![nahuellorenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuellorenzo&show_icons=true&count_private=true&theme=dark)
+![nahuellorenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuellorenzo&show_icons=true&count_private=true&theme=github_dark&border_color=30363D)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuellorenzo&layout=compact&theme=dark)](https://github.com/nahuellorenzo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuellorenzo&layout=compact&theme=github_dark&border_color=30363D)]
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuellorenzo&show_icons=true&count_private=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuellorenzo&show_icons=true&count_private=true&theme=onedark" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuellorenzo&layout=compact&theme=dark)](https://github.com/nahuellorenzo/github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuellorenzo&layout=compact&theme=ondedark" />
