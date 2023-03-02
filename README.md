@@ -1,7 +1,7 @@
 # Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30px"></h2>
 <b>Systems Engineer<b> (UTN FRLP).
 
-- 🔭 I’m currently currently studying Systems Engineering at [UTN FRLP](https://www.frlp.utn.edu.ar/).
+- 🔭 I’m currently studying Systems Engineering at [UTN FRLP](https://www.frlp.utn.edu.ar/).
 - 🌱 I’m currently learning [React](https://reactjs.org).
 <br />
 
